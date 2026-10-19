@@ -2,20 +2,27 @@
 
 **Desarrollador web · Docente de programación · Mar del Plata, Argentina**
 
-Desarrollo sitios y aplicaciones web, y enseño programación y tecnologías informáticas. Me interesa construir proyectos claros, bien documentados y útiles tanto para aprender como para resolver problemas reales.
+Desarrollo sitios y aplicaciones web, y enseño programación y tecnologías informáticas. Me interesa crear proyectos claros, bien documentados y útiles tanto para aprender como para resolver problemas reales.
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Tecnologías
 
+- **Backend y APIs:** Python, FastAPI, Node.js y Express.
+- **Validación y datos:** Pydantic, SQLAlchemy, SQLite, MongoDB y Firebase.
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap y Sass.
-- **Backend:** Node.js y Express.
-- **Datos:** MongoDB y Firebase.
 - **Herramientas:** Git, GitHub y Visual Studio Code.
 
-## 🚧 Actualmente
+## 🚧 En qué estoy trabajando
 
-Estoy preparando para publicar un **miniblog desarrollado con Python y FastAPI**. La idea es documentar su evolución con commits claros que reflejen funcionalidades y etapas reales del proyecto, muchas de ellas vinculadas con los contenidos que trabajo en clase.
+Estoy desarrollando mi perfil de backend con **Python y FastAPI**, construyendo APIs REST y documentando la evolución de los proyectos con commits que representan cambios reales.
+
+Como docente, también uso estos proyectos para conectar la práctica profesional con los contenidos que trabajo en clase y compartir ejemplos que otros puedan estudiar.
 
 ## 🚀 Proyectos destacados
+
+### [FastAPI Mini Blog](https://github.com/cgldev/fastapi-miniblog)
+API REST para gestionar publicaciones. Incluye operaciones CRUD, búsqueda por título, paginación, ordenamiento, filtrado por etiquetas y relaciones con autores.
+
+**Tecnologías:** Python, FastAPI, Pydantic v2, SQLAlchemy 2 y SQLite.
 
 ### [E-commerce con React](https://github.com/cgldev/ecommerce)
 Aplicación web de tienda online con navegación por categorías y productos, detalle de producto y carrito de compras.
@@ -32,9 +39,14 @@ Sitio web multipágina para presentar servicios profesionales, información inst
 
 **Tecnologías:** HTML, CSS, Bootstrap y JavaScript.
 
+### [Moda Store](https://github.com/cgldev/moda-store)
+Maqueta de tienda online para practicar interfaces web responsive y componentes de Bootstrap.
+
+**Tecnologías:** HTML, CSS, Bootstrap y Sass.
+
 ## 👨‍🏫 Docencia
 
-También uso GitHub para organizar y compartir ejemplos y proyectos relacionados con programación y desarrollo web. Me interesa que el código sea comprensible, que la documentación explique cómo ejecutar cada proyecto y que los avances puedan seguirse con el historial de Git.
+También uso GitHub para organizar y compartir ejemplos y proyectos relacionados con programación y desarrollo web. Me interesa que el código sea comprensible, que la documentación permita ejecutar cada proyecto y que los avances puedan seguirse con el historial de Git.
 
 ## 📫 Contacto
 
@@ -44,4 +56,4 @@ También uso GitHub para organizar y compartir ejemplos y proyectos relacionados
 
 ---
 
-*Los proyectos y tecnologías indicados reflejan repositorios públicos actuales. El proyecto FastAPI se añadirá aquí cuando esté publicado.*
+*Este perfil reúne proyectos de desarrollo web, aprendizaje de backend y recursos vinculados con la enseñanza de programación.*
